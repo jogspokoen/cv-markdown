@@ -31,7 +31,7 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## Current situation
-Considering 3-6 months contacts.
+Considering 3-6 months remote/hybrid contacts.<br>
 
 ## Focus
 Security <br>
