@@ -42,29 +42,28 @@ Testing/deployment automation <br>
 ## Skills
 _Python_ [Django, Flask, pandas, Pyramid, scrapy] `9 years` <br>
 _AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, ElasticBeanstalk] `5.5 years` <br>
-_Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `10.5 years` <br>
-_Infrastructure_ [Linux, MacOS, Docker] <br>
-_Tools_ [Git, Docker, CI/CD, gitlab, ] <br>
+_Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `~10.5 years` <br>
+_Infrastructure_ [Linux, MacOS, Docker] `6-10.5 years` <br>
+_Tools_ [Git, CI/CD, gitlab] `6-10.5 years` <br>
 
 ## Experience
 
 ### **WebSafety Ninja** 🇳🇱 _Reuver, Netherlands_ `April 2021 - present`
 
 _Founder_ <br>
-IT consultancy
 
-### **Mintlab** 🇳🇱 _Amsterdam, Netherlands_ `May 2019 — April 2021`
+### **[Mintlab](https://xxllnc.nl/)** 🇳🇱 _Amsterdam, Netherlands_ `May 2019 — April 2021`
 
 _Senior Python Developer_<br>
-Developed innovative and flxeible integration platform Koppel.App, focused on (semi-) government applications, using top-edge technologies: AWS, serverless, containers, infrastructure as a code.<br>
-Developed multiple connectors, used as input and output at the integration platform<br>
+<li>Developed innovative and flxeible integration platform Koppel.App, focused on (semi-) government applications, using top-edge technologies: AWS, serverless, containers, infrastructure as a code.</li>
+<li>Developed multiple connectors, used as input and output at the integration platform</li>
 Implemented several authorization options: JWT, token-based, 2FA<br>
 Developed an integration with Exact software for education-related organization<br>
 Developed the initial version of JSON-based language for entire koppeling description and data transformations
 
 
 
-### **Helloprint** 🇳🇱 _Rotterdam, Netherlands_ `April 2018 — April 2019`
+### **[Helloprint](https://www.helloprint.com/company/about)** 🇳🇱 _Rotterdam, Netherlands_ `April 2018 — April 2019`
 
 _Senior Python Developer_<br>
 Build scalable API to wrap new structure for Printed products, as an integrated part of the new platform.<br>
@@ -72,7 +71,7 @@ Automated data import process, reducing total import time from 3 days to 2.5 hou
 Developed API to provide a detailed overview of the critical part of the ordering process, combining data from different external sources, with lowest response time.<br>
 Developed and maintained several scrapers to populate information from external sources using API aside reverse-engineering and scraping technics.
 
-### **Ginger Payments** 🇳🇱 _Amsterdam, Netherlands_ `November 2016 — May 2018 (1 year 6 months)`
+### **[Ginger Payments](https://www.gingerpayments.com/)** 🇳🇱 _Amsterdam, Netherlands_ `November 2016 — May 2018 (1 year 6 months)`
 
 _Python Developer_<br>
 Created automated API-level testing robot<br>
@@ -84,7 +83,7 @@ Reported several minor security issues (see recommendations section)
 
 
 
-### **Rebelmouse** 💻 _Remote_ `April 2016 — August 2016 (4 months)`
+### **[Rebelmouse](https://www.rebelmouse.com/)** 💻 _Remote_ `April 2016 — August 2016 (4 months)`
 
 _Python/Django Developer_<br>
 Maintaining core app with XML/XSD stucture of internal modules<br>
@@ -98,7 +97,7 @@ Investiagating and fixing reported bugs
 
 
 
-### **Ortnec LTD** 🇨🇾 _Limassol, Cyprus_ `December 2012 — March 2016 (3 year 4 month)`
+### **[Ortnec LTD](https://en.ortnec.com/en)** 🇨🇾 _Limassol, Cyprus_ `December 2012 — March 2016 (3 year 4 month)`
 
 _Python Developer_<br>
 Developed and supported 30+ sites network with different access levels<br>
@@ -111,7 +110,7 @@ Supported billing systems integrations<br>
 Integrated security and anti-fraud solutions into project
 
 
-### **Zfort** 🇺🇦 _Kharkiv, Ukraine_  `May 2012 — December 2012 (8 months)`
+### **[Zfort](https://www.zfort.com/)** 🇺🇦 _Kharkiv, Ukraine_  `May 2012 — December 2012 (8 months)`
 #### **Alessandro / Tweezerman** `May 2012 — December 2012 (8 months)`
 
 _PHP Developer_<br>
