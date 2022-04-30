@@ -43,8 +43,8 @@ Testing/deployment automation <br>
 _Python_ [Django, Flask, pandas, Pyramid, scrapy] `9 years` <br>
 _AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, ElasticBeanstalk] `5.5 years` <br>
 _Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `~10.5 years` <br>
-_Infrastructure_ [Linux, MacOS, Docker] `6-10.5 years` <br>
-_Tools_ [Git, CI/CD, gitlab] `6-10.5 years` <br>
+_Infrastructure_ [Linux, MacOS, Docker] `~6-10.5 years` <br>
+_Tools_ [Git, CI/CD, gitlab] `~6-10.5 years` <br>
 
 ## Experience
 
@@ -52,7 +52,7 @@ _Tools_ [Git, CI/CD, gitlab] `6-10.5 years` <br>
 
 _Founder_ <br>
 
-### **[Mintlab](https://xxllnc.nl/)** 🇳🇱 _Amsterdam, Netherlands_ `May 2019 — April 2021`
+### **[Mintlab](https://xxllnc.nl/)** 🇳🇱 _Amsterdam, Netherlands_ `May 2019 — April 2021  (2 years)`
 
 _Senior Python Developer_<br>
 <li>Developed innovative and flxeible integration platform Koppel.App, focused on (semi-) government applications, using top-edge technologies: AWS, serverless, containers, infrastructure as a code.</li>
@@ -63,7 +63,7 @@ Developed the initial version of JSON-based language for entire koppeling descri
 
 
 
-### **[Helloprint](https://www.helloprint.com/company/about)** 🇳🇱 _Rotterdam, Netherlands_ `April 2018 — April 2019`
+### **[Helloprint](https://www.helloprint.com/company/about)** 🇳🇱 _Rotterdam, Netherlands_ `April 2018 — April 2019 (1 year)`
 
 _Senior Python Developer_<br>
 Build scalable API to wrap new structure for Printed products, as an integrated part of the new platform.<br>
