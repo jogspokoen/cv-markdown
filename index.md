@@ -71,6 +71,8 @@ Automated data import process, reducing total import time from 3 days to 2.5 hou
 Developed API to provide a detailed overview of the critical part of the ordering process, combining data from different external sources, with lowest response time.<br>
 Developed and maintained several scrapers to populate information from external sources using API aside reverse-engineering and scraping technics.
 
+---
+
 ### **[Ginger Payments](https://www.gingerpayments.com/)** 🇳🇱 _Amsterdam, Netherlands_ `November 2016 — May 2018 (1 year 6 months)`
 
 _Python Developer_<br>
