@@ -128,6 +128,6 @@ implemented re-design
 
 <!-- ### Footer
 
-Last updated: May 2022 -->
+Last updated: Mar 2023 -->
 <br><br><br>
 #### [Download as PDF](https://bendeberia.info/bendeberia_cv.pdf)
