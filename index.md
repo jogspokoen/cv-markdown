@@ -41,16 +41,17 @@ Testing/deployment automation <br>
 
 ## Skills
 _Python_ [Django, Flask, pandas, Pyramid, scrapy] `9 years` <br>
-_AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, ElasticBeanstalk] `5.5 years` <br>
-_Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `~10.5 years` <br>
-_Infrastructure_ [Linux, MacOS, Docker] `~6-10.5 years` <br>
-_Tools_ [Git, CI/CD, gitlab] `~6-10.5 years` <br>
+_AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, ElasticBeanstalk] `6 years` <br>
+_Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `~11 years` <br>
+_Infrastructure_ [Linux, MacOS, Docker] `~6-11 years` <br>
+_Tools_ [Git, CI/CD, gitlab] `~6-11 years` <br>
 
 ## Experience
 
-### **WebSafety Ninja** 🇳🇱 _Reuver, Netherlands_ `April 2021 - present`
+### **[WebSafety Ninja](https://websafety.ninja/)** 🇳🇱 _Reuver, Netherlands_ `April 2021 - present`
 
 _Founder_ <br>
+Used core skillset (Python, AWS, Django) to implement automation, which resulted in more than 8000 contributions into cybersecurity across the world.
 
 ### **[Mintlab](https://xxllnc.nl/)** 🇳🇱 _Amsterdam, Netherlands_ `May 2019 — April 2021  (2 years)`
 
