@@ -31,7 +31,8 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## Current situation
-Considering 3-6 months remote/hybrid contacts.<br>
+Considering 3-6 months remote/hybrid contracts.<br>
+Considering CTO position for seeded startup<br>
 
 ## Focus
 Security <br>
