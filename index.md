@@ -40,11 +40,11 @@ Cloud Security <br>
 Integration Testing automation<br>
 
 ## Skills
-_Python_ [Django, Flask, pandas, Pyramid, scrapy] `10 years` <br>
+_Python_ [Django, Flask, pandas, Pyramid, scrapy] `{{ 'now' | date: "%Y" | minus: 2013 }} years` <br>
 _AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, Athena, ElasticBeanstalk, EC2, ECS, CloudFormation, CloudWatch] `7 years` <br>
-_Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `~11 years` <br>
-_Infrastructure_ [Linux, MacOS, Docker] `~7-11 years` <br>
-_Tools_ [Git, CI/CD, gitlab] `~7-11 years` <br>
+_Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `~{{ 'now' | date: "%Y" | minus: 2012 }} years` <br>
+_Infrastructure_ [Linux, MacOS, Docker] `~{{ 'now' | date: "%Y" | minus: 2016 }}-{{ 'now' | date: "%Y" | minus: 2012 }} years` <br>
+_Tools_ [Git, CI/CD, gitlab] `~{{ 'now' | date: "%Y" | minus: 2016 }}-{{ 'now' | date: "%Y" | minus: 2012 }} years` <br>
 
 ## Experience
 
@@ -110,12 +110,12 @@ Integrated security and anti-fraud solutions into project
 
 
 ### **[Zfort](https://www.zfort.com/)** 🇺🇦 _Kharkiv, Ukraine_  `May 2012 — December 2012 (8 months)`
-#### **Alessandro / Tweezerman** `May 2012 — December 2012 (8 months)`
+#### **Alessandro / Tweezerman**
 
 _PHP Developer_<br>
 cross-domain shopping cart solution
 
-#### **16brands** `May 2012 — December 2012 (8 months)`
+#### **16brands**
 
 _PHP Developer_<br>
 implemented re-design
