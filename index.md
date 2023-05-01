@@ -31,39 +31,39 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## Current situation
-Considering 3-6 months remote/hybrid contracts.<br>
-Considering CTO position for seeded startup<br>
+Considering 3-12 months remote/hybrid contracts.<br>
 
 ## Focus
-Security <br>
-Building APIs <br>
-Building integrations <br>
-Testing/deployment automation <br>
+Building APIs<br>
+Building integrations<br>
+Cloud Security <br>
+Integration Testing automation<br>
 
 ## Skills
-_Python_ [Django, Flask, pandas, Pyramid, scrapy] `9 years` <br>
-_AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, ElasticBeanstalk] `6 years` <br>
+_Python_ [Django, Flask, pandas, Pyramid, scrapy] `10 years` <br>
+_AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, Athena, ElasticBeanstalk, EC2, ECS, CloudFormation, CloudWatch] `7 years` <br>
 _Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `~11 years` <br>
-_Infrastructure_ [Linux, MacOS, Docker] `~6-11 years` <br>
-_Tools_ [Git, CI/CD, gitlab] `~6-11 years` <br>
+_Infrastructure_ [Linux, MacOS, Docker] `~7-11 years` <br>
+_Tools_ [Git, CI/CD, gitlab] `~7-11 years` <br>
 
 ## Experience
 
 ### **[WebSafety Ninja](https://websafety.ninja/)** 🇳🇱 _Reuver, Netherlands_ `April 2021 - present`
 
-_Founder_ <br>
-Used core skillset (Python, AWS, Django) to implement automation, which resulted in more than 8000 contributions into cybersecurity across the world.
+_Founder_ and Developer<br>
+Used core skillset (Python, AWS, Django) to implement automation for cybersecurity routines.<br>
+This resulted in more than 8500 contributions into cybersecurity across the world.
 
 ### **[Mintlab](https://xxllnc.nl/)** 🇳🇱 _Amsterdam, Netherlands_ `May 2019 — April 2021  (2 years)`
 
 _Senior Python Developer_<br>
-<li>Developed innovative and flxeible integration platform Koppel.App, focused on (semi-) government applications, using top-edge technologies: AWS, serverless, containers, infrastructure as a code.</li>
-<li>Developed multiple connectors, used as input and output at the integration platform</li>
+As a part of small and independent team, developed from scratch innovative and flxeible integration platform Koppel.App, focused on (semi-) government case management.<br>
+Koppel.App platform used top-edge technologies from AWS: Lambda, SQS and StepFunctions for data processing pipeline, CloudFormation to define infrastructure as a code.<br>
+On
+Developed multiple connectors, used as input and output at the integration platform<br>
 Implemented several authorization options: JWT, token-based, 2FA<br>
 Developed an integration with Exact software for education-related organization<br>
-Developed the initial version of JSON-based language for entire koppeling description and data transformations
-
-
+Developed the initial version of JSON-based language for entire koppeling description and data transformations, as intermediair step for no-code approach.<br>
 
 ### **[Helloprint](https://www.helloprint.com/company/about)** 🇳🇱 _Rotterdam, Netherlands_ `April 2018 — April 2019 (1 year)`
 
@@ -71,9 +71,7 @@ _Senior Python Developer_<br>
 Build scalable API to wrap new structure for Printed products, as an integrated part of the new platform.<br>
 Automated data import process, reducing total import time from 3 days to 2.5 hours using pandas and extended ORM solution.<br>
 Developed API to provide a detailed overview of the critical part of the ordering process, combining data from different external sources, with lowest response time.<br>
-Developed and maintained several scrapers to populate information from external sources using API aside reverse-engineering and scraping technics.
-
----
+Developed and maintained several scrapers to populate information from external sources using API aside reverse-engineering and scraping technics.<br>
 
 ### **[Ginger Payments](https://www.gingerpayments.com/)** 🇳🇱 _Amsterdam, Netherlands_ `November 2016 — May 2018 (1 year 6 months)`
 
@@ -83,9 +81,7 @@ Created custom database viewer as replacement of default AWS viewer, with focus 
 Developed and maintaining merchant's onboarding for platform and payment methods<br>
 Developed and maintaining integration with third-party providers<br>
 Developed and maintaining financial reports generating flow<br>
-Reported several minor security issues (see recommendations section)
-
-
+Reported several minor security issues (see recommendations section)<br>
 
 ### **[Rebelmouse](https://www.rebelmouse.com/)** 💻 _Remote_ `April 2016 — August 2016 (4 months)`
 
@@ -108,8 +104,7 @@ Developed and supported 30+ sites network with different access levels<br>
 Upgraded NATS (content and analytics management system) integration<br>
 Upgraded and supported project with using CDN services<br>
 Created custom analytics reports<br>
-Built postbacks routing system<br>
-Built custom mailing utilities<br>
+Built postbacks routing system and integrated with mailing utilities<br>
 Supported billing systems integrations<br>
 Integrated security and anti-fraud solutions into project
 
