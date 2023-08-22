@@ -41,6 +41,7 @@ Integration Testing automation<br>
 
 ## Skills
 _Python_ [Django, Flask, pandas, Pyramid, scrapy] `{{ 'now' | date: "%Y" | minus: 2013 }} years` <br>
+_Test-driven Development (TDD)_ [PyTest, Tox] `{{ 'now' | date: "%Y" | minus: 2013 }} years` <br>
 _AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, Athena, ElasticBeanstalk, EC2, ECS, CloudFormation, CloudWatch] `7 years` <br>
 _Databases_ [MySQL, PostgreSQL, MongoDB, Redis] `~{{ 'now' | date: "%Y" | minus: 2012 }} years` <br>
 _Infrastructure_ [Linux, MacOS, Docker] `~{{ 'now' | date: "%Y" | minus: 2016 }}-{{ 'now' | date: "%Y" | minus: 2012 }} years` <br>
