@@ -30,16 +30,12 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Current situation
-Considering 3-12 months remote/hybrid contracts.<br>
-
 ## Focus
-Building APIs<br>
-Building integrations<br>
 Cloud Security <br>
-Integration Testing automation<br>
+Attack Surface/Exposure Management <br>
 
-## Skills
+
+## Skills and tools
 _Python_ [Django, Flask, pandas, Pyramid, scrapy] `{{ 'now' | date: "%Y" | minus: 2013 }} years` <br>
 _Test-driven Development (TDD)_ [PyTest, Tox] `{{ 'now' | date: "%Y" | minus: 2013 }} years` <br>
 _AWS_ [Lambda, S3, SQS, DynamoDB, StepFunctions, Athena, ElasticBeanstalk, EC2, ECS, CloudFormation, CloudWatch] `7 years` <br>
@@ -49,14 +45,15 @@ _Tools_ [Git, CI/CD, gitlab] `~{{ 'now' | date: "%Y" | minus: 2016 }}-{{ 'now' |
 
 ## Experience
 
-### **[WebSafety Ninja](https://websafety.ninja/)** 🇳🇱 _Reuver, Netherlands_ `April 2021 - present`
-
-_Founder_ and Developer<br>
-Used core skillset (Python, AWS, Django) to implement automation for cybersecurity routines.<br>
-This resulted in more than 8500 contributions into cybersecurity across the world.
+### **[WebSafety Ninja](https://websafety.ninja/)** 🇳🇱 _Reuver, Netherlands_ `2018 – present (full-time since April 2021)`
+_CTO_, Ethical security research company<br>
+Continuously discovering internet-facing assets and scan them for exposed misconfigurations and known vulnerabilities<br>
+Personally triage and validate findings before reporting, separating real risk from scanner noise; severity rated with CVSS<br>
+Responsibly disclosed **14,000+** vulnerabilities to system owners<br>
+Built the whole pipeline myself in Python on AWS: discovery, scanning, risk scoring, reporting and communication<br>
+Built a penetration testing team; scoped and managed 140+ penetration tests and reviewed their reports<br>
 
 ### **[Mintlab](https://xxllnc.nl/)** 🇳🇱 _Amsterdam, Netherlands_ `May 2019 — April 2021  (2 years)`
-
 _Senior Python Developer_<br>
 As a part of small and independent team, developed from scratch innovative and flxeible integration platform Koppel.App, focused on (semi-) government case management.<br>
 Koppel.App platform used top-edge technologies from AWS: Lambda, SQS and StepFunctions for data processing pipeline, CloudFormation to define infrastructure as a code.<br>
