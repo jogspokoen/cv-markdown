@@ -2,8 +2,8 @@
 layout: cv
 title: Maksym Bendeberia
 email:
-  url: mailto:maksym@bendeberia.info
-  text: maksym@bendeberia.info
+  url: mailto:max@websafety.ninja 
+  text: max@websafety.ninja
 homepage:
   url: https://bendeberia.info
   text: bendeberia.info
