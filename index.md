@@ -56,7 +56,7 @@ Personally triage and validate findings before reporting, separating real risk f
 Responsibly disclosed **14,000+** vulnerabilities to system owners<br>
 Built the whole pipeline myself in Python, scalable at AWS: discovery, scanning, risk scoring, reporting and communication<br>
 Built a penetration testing team; scoped and managed 140+ penetration tests and reviewed their reports<br>
-
+Handled a suspected office-network compromise on site in Paris in 48 hours, from device examination and IOC search to the final report and regulatory notifications with the legal team<br>
 <br>
 
 ### **[Mintlab](https://xxllnc.nl/)** 🇳🇱 _Amsterdam, Netherlands_ `May 2019 — April 2021  (2 years)`
